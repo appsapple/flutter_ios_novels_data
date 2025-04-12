@@ -216,6 +216,159 @@
             "BannerClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%ac%d8%a7%d8%b1%d8%aa%d9%8a%d9%86-%d9%84%d9%80-%d8%b9%d9%85%d8%b1%d9%88-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%ad/",
             "PopClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%ac%d8%a7%d8%b1%d8%aa%d9%8a%d9%86-%d9%84%d9%80-%d8%b9%d9%85%d8%b1%d9%88-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%ad/",
             "PdfClick": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/pdf/%D9%85%D9%83%D8%AA%D8%A8%D8%A9%20%D9%83%D8%AA%D9%88%D8%A8%D8%A7%D8%AA%D9%8A%20-%20%D9%82%D9%88%D8%A7%D8%B9%D8%AF%20%D8%AC%D8%A7%D8%B1%D8%AA%D9%8A%D9%86.pdf"
-        }
+        },
+	{
+            "novelName": "رواية الليلة الثالثة والعشرون",
+            "BannerImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PopImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PdfImage": "https://archive.org/download/pdf_20250126/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%2872%29.png",
+            "BannerClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d9%84%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d8%a9-%d9%88%d8%a7%d9%84%d8%b9%d8%b4%d8%b1%d9%88%d9%86-%d9%84%d9%80/",
+            "PopClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d9%84%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d8%a9-%d9%88%d8%a7%d9%84%d8%b9%d8%b4%d8%b1%d9%88%d9%86-%d9%84%d9%80/",
+            "PdfClick": "https://archive.org/download/pdf_20250126/%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9%20%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9%20%D9%88%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86%20PDF%20-%20%D8%AA%D8%A7%D9%85%D8%B1%20%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85.pdf"
+        },
+        {
+            "novelName": "رواية غريبه في مدينه الشيطان",
+            "BannerImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PopImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PdfImage": "https://archive.org/download/65_20250125/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%2865%29.png",
+            "BannerClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%ba%d8%b1%d9%8a%d8%a8%d9%87-%d9%81%d9%8a-%d9%85%d8%af%d9%8a%d9%86%d9%87-%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86-%d8%a7%d9%84%d8%ad/",
+            "PopClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%ba%d8%b1%d9%8a%d8%a8%d9%87-%d9%81%d9%8a-%d9%85%d8%af%d9%8a%d9%86%d9%87-%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86-%d8%a7%d9%84%d8%ad/",
+            "PdfClick": "https://archive.org/download/65_20250125/Kotobati%20-%20%D8%BA%D8%B1%D9%8A%D8%A8%D9%87%20%D9%81%D9%8A%20%D9%85%D8%AF%D9%8A%D9%86%D9%87%20%D8%A7%D9%84%D8%B4%D9%8A%D8%B7%D8%A7%D9%86%20-%20Shahd%20EL_sayed.pdf"
+        },
+        {
+            "novelName": "رواية عزيف",
+            "BannerImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PopImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PdfImage": "https://archive.org/download/66_20250125/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%2866%29.png",
+            "BannerClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%b9%d8%b2%d9%8a%d9%81-%d9%84%d9%80-%d8%b9%d9%85%d8%b1%d9%88-%d8%a7%d9%84%d9%85%d9%86%d9%88%d9%81%d9%8a/",
+            "PopClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%b9%d8%b2%d9%8a%d9%81-%d9%84%d9%80-%d8%b9%d9%85%d8%b1%d9%88-%d8%a7%d9%84%d9%85%d9%86%d9%88%d9%81%d9%8a/",
+            "PdfClick": "https://archive.org/download/66_20250125/%D8%B9%D8%B2%D9%8A%D9%81.pdf"
+        },
+        {
+            "novelName": "رواية أسطورة رأس ميدوسا",
+            "BannerImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PopImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PdfImage": "https://archive.org/download/55708-foulabook.com/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%2867%29.png",
+            "BannerClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a3%d8%b3%d8%b7%d9%88%d8%b1%d8%a9-%d8%b1%d8%a3%d8%b3-%d9%85%d9%8a%d8%af%d9%88%d8%b3%d8%a7-%d9%84%d9%80-%d8%a3%d8%ad%d9%85%d8%af-%d8%ae%d8%a7/",
+            "PopClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a3%d8%b3%d8%b7%d9%88%d8%b1%d8%a9-%d8%b1%d8%a3%d8%b3-%d9%85%d9%8a%d8%af%d9%88%d8%b3%d8%a7-%d9%84%d9%80-%d8%a3%d8%ad%d9%85%d8%af-%d8%ae%d8%a7/",
+            "PdfClick": "https://archive.org/download/55708-foulabook.com/%D8%A3%D8%B3%D8%B7%D9%88%D8%B1%D8%A9%20%D8%B1%D8%A3%D8%B3%20%D9%85%D9%8A%D8%AF%D9%88%D8%B3%D8%A7%20-%20%D8%B3%D9%84%D8%B3%D9%84%D8%A9%20%D9%85%D8%A7%20%D9%88%D8%B1%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9_55708_Foulabook.com_.pdf"
+        },
+        {
+            "novelName": "رواية مزرعة الدموع",
+            "BannerImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PopImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PdfImage": "https://archive.org/download/33850-foulabook.com/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%2868%29.png",
+            "BannerClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%85%d8%b2%d8%b1%d8%b9%d8%a9-%d8%a7%d9%84%d8%af%d9%85%d9%88%d8%b9-%d9%84%d9%80-%d9%85%d9%86%d9%89-%d8%b3%d9%84%d8%a7%d9%85%d8%a9/",
+            "PopClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%85%d8%b2%d8%b1%d8%b9%d8%a9-%d8%a7%d9%84%d8%af%d9%85%d9%88%d8%b9-%d9%84%d9%80-%d9%85%d9%86%d9%89-%d8%b3%d9%84%d8%a7%d9%85%d8%a9/",
+            "PdfClick": "https://archive.org/download/33850-foulabook.com/%D9%85%D8%B2%D8%B1%D8%B9%D8%A9%20%D8%A7%D9%84%D8%AF%D9%85%D9%88%D8%B9_33850_Foulabook.com_.pdf"
+        },
+        {
+            "novelName": "رواية مدينة الموتى",
+            "BannerImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PopImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PdfImage": "https://archive.org/download/69_20250125/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%2869%29.png",
+            "BannerClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%89-%d9%84%d9%80-%d8%ad%d8%b3%d9%86-%d8%a7%d9%84%d8%ac%d9%86%d8%af%d9%8a/",
+            "PopClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%89-%d9%84%d9%80-%d8%ad%d8%b3%d9%86-%d8%a7%d9%84%d8%ac%d9%86%d8%af%d9%8a/",
+            "PdfClick": "https://archive.org/download/69_20250125/%D9%85%D8%AF%D9%8A%D9%86%D8%A9%20%D8%A7%D9%84%D9%85%D9%88%D8%AA%D9%89%20%28%D9%85%D8%AE%D8%B7%D9%88%D8%B7%D8%A9%20%D8%A8%D9%86%20%D8%A5%D8%B3%D8%AD%D8%A7%D9%82%20%231%29_Foulabook.com_.pdf"
+        },
+        {
+            "novelName": "رواية الآن نفتح الصندوق",
+            "BannerImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PopImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PdfImage": "https://archive.org/download/53542.-foulabook.com.-2018-02-20.1519127648/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20-%202025-02-11T141038.198.png",
+            "BannerClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%88%d8%a3%d8%ad%d8%af%d8%a7%d8%ab-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%a2%d9%86-%d9%86%d9%81%d8%aa%d8%ad-%d8%a7%d9%84%d8%b5%d9%86%d8%af%d9%88%d9%82-%d9%84%d9%80/",
+            "PopClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%88%d8%a3%d8%ad%d8%af%d8%a7%d8%ab-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%a2%d9%86-%d9%86%d9%81%d8%aa%d8%ad-%d8%a7%d9%84%d8%b5%d9%86%d8%af%d9%88%d9%82-%d9%84%d9%80/",
+            "PdfClick": "https://archive.org/download/53542.-foulabook.com.-2018-02-20.1519127648/53542.Foulabook.com.2018-02-20.1519127648.pdf"
+        },
+        {
+            "novelName": "رواية دراكولا",
+            "BannerImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PopImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PdfImage": "https://archive.org/download/23681-foulabook.com/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20-%202025-02-11T141900.466.png",
+            "BannerClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%88%d8%a3%d8%ad%d8%af%d8%a7%d8%ab-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%af%d8%b1%d8%a7%d9%83%d9%88%d9%84%d8%a7-%d9%84%d9%80-%d8%a8%d8%b1%d8%a7%d9%85-%d8%b3%d8%aa%d9%88%d9%83/",
+            "PopClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%88%d8%a3%d8%ad%d8%af%d8%a7%d8%ab-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%af%d8%b1%d8%a7%d9%83%d9%88%d9%84%d8%a7-%d9%84%d9%80-%d8%a8%d8%b1%d8%a7%d9%85-%d8%b3%d8%aa%d9%88%d9%83/",
+            "PdfClick": "https://archive.org/download/23681-foulabook.com/%D8%AF%D8%B1%D8%A7%D9%83%D9%88%D9%84%D8%A7_23681_Foulabook.com_.pdf"
+        },
+        {
+            "novelName": "رواية أسطورة الجاثوم",
+            "BannerImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PopImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PdfImage": "https://archive.org/download/79254.-foulabook.com.-2018-02-20.1519131465/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%2833%29.png",
+            "BannerClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a3%d8%b3%d8%b7%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ac%d8%a7%d8%ab%d9%88%d9%85/",
+            "PopClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a3%d8%b3%d8%b7%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ac%d8%a7%d8%ab%d9%88%d9%85/",
+            "PdfClick": "https://archive.org/download/79254.-foulabook.com.-2018-02-20.1519131465/79254.Foulabook.com.2018-02-20.1519131465.pdf"
+        },
+        {
+            "novelName": "رواية الجثة الخامسة",
+            "BannerImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PopImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PdfImage": "https://archive.org/download/41639-foulabook.com-4/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%2840%29.png",
+            "BannerClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%ac%d8%ab%d8%a9-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d8%a9-%d9%84%d9%80-%d8%ad%d8%b3%d9%8a%d9%86-%d8%a7%d9%84%d8%b3%d9%8a%d8%af/",
+            "PopClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%ac%d8%ab%d8%a9-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d8%a9-%d9%84%d9%80-%d8%ad%d8%b3%d9%8a%d9%86-%d8%a7%d9%84%d8%b3%d9%8a%d8%af/",
+            "PdfClick": "https://archive.org/download/41639-foulabook.com-4/%D8%A7%D9%84%D8%AC%D8%AB%D8%A9%20%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9_41639_Foulabook.com_%20%284%29.pdf"
+        },
+        {
+            "novelName": "رواية منزل أبو خطوة",
+            "BannerImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PopImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PdfImage": "https://archive.org/download/foulabook.com_20250119_2045/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%2841%29.png",
+            "BannerClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%85%d9%86%d8%b2%d9%84-%d8%a3%d8%a8%d9%88-%d8%ae%d8%b7%d9%88%d8%a9-%d9%84%d9%80-%d8%ad%d8%b3%d9%86-%d8%a7%d9%84%d8%ac%d9%86%d8%af%d9%8a/",
+            "PopClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%85%d9%86%d8%b2%d9%84-%d8%a3%d8%a8%d9%88-%d8%ae%d8%b7%d9%88%d8%a9-%d9%84%d9%80-%d8%ad%d8%b3%d9%86-%d8%a7%d9%84%d8%ac%d9%86%d8%af%d9%8a/",
+            "PdfClick": "https://archive.org/download/foulabook.com_20250119_2045/%D9%84%D9%8A%D9%84%D8%A9%20%D9%81%D9%8A%20%D8%AC%D9%87%D9%86%D9%85%20%D9%85%D9%86%D8%B2%D9%84%20%D8%A3%D8%A8%D9%88%20%D8%AE%D8%B7%D9%88%D8%A9_Foulabook.com_.pdf"
+        },
+        {
+            "novelName": "كتاب دقات الشامو",
+            "BannerImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PopImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PdfImage": "https://archive.org/download/2-48799-foulabook.com_202501/hqdefault%20%282%29.jpg",
+            "BannerClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d8%af%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%88-%d9%84%d9%80-%d8%b9%d9%85%d8%b1%d9%88-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%ad%d9%85%d9%8a/",
+            "PopClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d8%af%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%88-%d9%84%d9%80-%d8%b9%d9%85%d8%b1%d9%88-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%ad%d9%85%d9%8a/",
+            "PdfClick": "https://archive.org/download/2-48799-foulabook.com_202501/%D8%AF%D9%82%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%88%20-%20%D9%82%D9%88%D8%A7%D8%B9%D8%AF%20%D8%AC%D8%A7%D8%B1%D8%AA%D9%8A%D9%86%202_48799_Foulabook.com_.pdf"
+        },
+        {
+            "novelName": "رواية الفيل الأزرق",
+            "BannerImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PopImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PdfImage": "https://archive.org/download/79796.-foulabook.com.-2018-01-20.1516466313/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%2842%29.png",
+            "BannerClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%88%d8%a3%d8%ad%d8%af%d8%a7%d8%ab-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d9%81%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%b2%d8%b1%d9%82-%d9%84%d9%80-%d8%a3%d8%ad%d9%85%d8%af/",
+            "PopClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%88%d8%a3%d8%ad%d8%af%d8%a7%d8%ab-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d9%81%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%b2%d8%b1%d9%82-%d9%84%d9%80-%d8%a3%d8%ad%d9%85%d8%af/",
+            "PdfClick": "https://archive.org/download/79796.-foulabook.com.-2018-01-20.1516466313/79796.Foulabook.com.2018-01-20.1516466313.pdf"
+        },
+        {
+            "novelName": "رواية الآن أفهم",
+            "BannerImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PopImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PdfImage": "https://archive.org/download/31929.-foulabook.com.-2018-02-20.1519125707_20250120/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%2843%29.png",
+            "BannerClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%a2%d9%86-%d8%a3%d9%81%d9%87%d9%85-%d9%84%d9%80-%d8%a3%d8%ad%d9%85%d8%af-%d8%ae%d8%a7%d9%84%d8%af-%d8%aa%d9%88%d9%81%d9%8a%d9%82/",
+            "PopClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%a2%d9%86-%d8%a3%d9%81%d9%87%d9%85-%d9%84%d9%80-%d8%a3%d8%ad%d9%85%d8%af-%d8%ae%d8%a7%d9%84%d8%af-%d8%aa%d9%88%d9%81%d9%8a%d9%82/",
+            "PdfClick": "https://archive.org/download/31929.-foulabook.com.-2018-02-20.1519125707_20250120/31929.Foulabook.com.2018-02-20.1519125707.pdf"
+        },
+        {
+            "novelName": "رواية كل الشهور يوليو",
+            "BannerImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PopImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PdfImage": "https://archive.org/download/20250120_20250120_1752/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%2844%29.png",
+            "BannerClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%83%d9%84-%d8%a7%d9%84%d8%b4%d9%87%d9%88%d8%b1-%d9%8a%d9%88%d9%84%d9%8a%d9%88-%d9%84%d9%80-%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85-%d8%b9/",
+            "PopClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%83%d9%84-%d8%a7%d9%84%d8%b4%d9%87%d9%88%d8%b1-%d9%8a%d9%88%d9%84%d9%8a%d9%88-%d9%84%d9%80-%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85-%d8%b9/",
+            "PdfClick": "https://archive.org/download/20250120_20250120_1752/%D9%83%D9%84%20%D8%A7%D9%84%D8%B4%D9%87%D9%88%D8%B1%20%D9%8A%D9%88%D9%84%D9%8A%D9%88%20%20-%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20-%20%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%20%D8%B9%D9%8A%D8%B3%D9%89%20-%20%D9%85%D9%83%D8%AA%D8%A8%D8%A9%20%D8%B4%D8%BA%D9%81.pdf"
+        },
+        {
+            "novelName": "رواية السنجة",
+            "BannerImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PopImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PdfImage": "https://archive.org/download/22928.-foulabook.com.-2018-02-04.1517750209/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%2852%29.png",
+            "BannerClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%88%d8%a3%d8%ad%d8%af%d8%a7%d8%ab-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d9%86%d8%ac%d8%a9-%d9%84%d9%80-%d8%a3%d8%ad%d9%85%d8%af-%d8%ae%d8%a7%d9%84%d8%af-%d8%aa/",
+            "PopClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%88%d8%a3%d8%ad%d8%af%d8%a7%d8%ab-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d9%86%d8%ac%d8%a9-%d9%84%d9%80-%d8%a3%d8%ad%d9%85%d8%af-%d8%ae%d8%a7%d9%84%d8%af-%d8%aa/",
+            "PdfClick": "https://archive.org/download/22928.-foulabook.com.-2018-02-04.1517750209/22928.Foulabook.com.2018-02-04.1517750209.pdf"
+        },
+        {
+            "novelName": "رواية أسطورة الطفيل",
+            "BannerImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PopImage": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+            "PdfImage": "https://archive.org/download/79322.-foulabook.com.-2018-02-20.1519128421/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%2853%29.png",
+            "BannerClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a3%d8%b3%d8%b7%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d9%81%d9%8a%d9%84-%d9%84%d9%80-%d8%a3%d8%ad%d9%85%d8%af-%d8%ae%d8%a7%d9%84%d8%af-%d8%aa/",
+            "PopClick": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a3%d8%b3%d8%b7%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d9%81%d9%8a%d9%84-%d9%84%d9%80-%d8%a3%d8%ad%d9%85%d8%af-%d8%ae%d8%a7%d9%84%d8%af-%d8%aa/",
+            "PdfClick": "https://archive.org/download/79322.-foulabook.com.-2018-02-20.1519128421/79322.Foulabook.com.2018-02-20.1519128421.pdf"
+        }    
     ]
 }
